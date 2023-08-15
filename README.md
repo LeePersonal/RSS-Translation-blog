@@ -11,11 +11,11 @@
 
 ## 已转换翻译源
 
- - source001 [http://arxiv.org/rss/cs.AI](http://arxiv.org/rss/cs.AI) -> [arxiv_AI.xml](rss/arxiv_AI.xml)
+ - source001 [https://news.microsoft.com/source/tag/ai/feed/](https://news.microsoft.com/source/tag/ai/feed/) -> [Microsoft_AI.xml](rss/Microsoft_AI.xml)
  - source002 [https://huggingface.co/blog/feed.xml](https://huggingface.co/blog/feed.xml) -> [HuggingFace_Blog.xml](rss/HuggingFace_Blog.xml)
  - source003 [http://feeds.feedburner.com/blogspot/gJZg](http://feeds.feedburner.com/blogspot/gJZg) -> [GoogleAI.xml](rss/GoogleAI.xml)
  - source004 [https://rsshub-yuee.vercel.app/producthunt/today?key=yuezhu](https://rsshub-yuee.vercel.app/producthunt/today?key=yuezhu) -> [ProductHunt.xml](rss/ProductHunt.xml)
- - source005 [https://rsshub-yuee.vercel.app/huggingface/daily-papers?key=yuezhu](https://rsshub-yuee.vercel.app/huggingface/daily-papers?key=yuezhu) -> [HuggingFace_Paper.xml](rss/HuggingFace_Paper.xml)
+ - source005 [https://venturebeat.com/category/ai/feed/](https://venturebeat.com/category/ai/feed/) -> [VB_AI_NEWS.xml](rss/VB_AI_NEWS.xml)
  - source006 [https://aivalley.ai/feed/](https://aivalley.ai/feed/) -> [AIvalley.xml](rss/AIvalley.xml)
  - source007 [https://rsshub-yuee.vercel.app/deepmind/blog?key=yuezhu](https://rsshub-yuee.vercel.app/deepmind/blog?key=yuezhu) -> [GoogleDeepMind.xml](rss/GoogleDeepMind.xml)
  - source008 [https://blog.google/technology/ai/rss/](https://blog.google/technology/ai/rss/) -> [GoogleTechAI.xml](rss/GoogleTechAI.xml)

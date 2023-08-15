@@ -19,3 +19,5 @@
  - source006 [https://aivalley.ai/feed/](https://aivalley.ai/feed/) -> [AIvalley.xml](rss/AIvalley.xml)
  - source007 [https://rsshub-yuee.vercel.app/deepmind/blog?key=yuezhu](https://rsshub-yuee.vercel.app/deepmind/blog?key=yuezhu) -> [GoogleDeepMind.xml](rss/GoogleDeepMind.xml)
  - source008 [https://blog.google/technology/ai/rss/](https://blog.google/technology/ai/rss/) -> [GoogleTechAI.xml](rss/GoogleTechAI.xml)
+ - source009 [https://rsshub.app/openai/blog/](https://rsshub.app/openai/blog/) -> [OpenAI_Blog.xml](rss/OpenAI_Blog.xml)
+ - source010 [https://rsshub.app/openai/research/](https://rsshub.app/openai/research/) -> [OpenAI_Research.xml](rss/OpenAI_Research.xml)

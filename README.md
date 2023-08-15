@@ -14,7 +14,7 @@
  - source001 [https://news.microsoft.com/source/tag/ai/feed/](https://news.microsoft.com/source/tag/ai/feed/) -> [Microsoft_AI.xml](rss/Microsoft_AI.xml)
  - source002 [https://huggingface.co/blog/feed.xml](https://huggingface.co/blog/feed.xml) -> [HuggingFace_Blog.xml](rss/HuggingFace_Blog.xml)
  - source003 [http://feeds.feedburner.com/blogspot/gJZg](http://feeds.feedburner.com/blogspot/gJZg) -> [GoogleAI.xml](rss/GoogleAI.xml)
- - source004 [https://rsshub-yuee.vercel.app/producthunt/today?key=yuezhu](https://rsshub-yuee.vercel.app/producthunt/today?key=yuezhu) -> [ProductHunt.xml](rss/ProductHunt.xml)
+ - source004 [https://www.theverge.com/rss/ai-artificial-intelligence/index.xml](https://www.theverge.com/rss/ai-artificial-intelligence/index.xml) -> [theverge.xml](rss/theverge.xml)
  - source005 [https://venturebeat.com/category/ai/feed/](https://venturebeat.com/category/ai/feed/) -> [VB_AI_NEWS.xml](rss/VB_AI_NEWS.xml)
  - source006 [https://aivalley.ai/feed/](https://aivalley.ai/feed/) -> [AIvalley.xml](rss/AIvalley.xml)
  - source007 [https://rsshub-yuee.vercel.app/deepmind/blog?key=yuezhu](https://rsshub-yuee.vercel.app/deepmind/blog?key=yuezhu) -> [GoogleDeepMind.xml](rss/GoogleDeepMind.xml)
